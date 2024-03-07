@@ -18,5 +18,5 @@ GrainScan: Revolutionizing Farming with AI 🌾🚀. Our platform leverages deep
 
 ![image](https://github.com/K-Senthil-Shunmugam/GrainScan/assets/113205555/ef4b4766-6c96-4eca-a8ce-85a8e3b76481)
 
+![image](https://github.com/K-Senthil-Shunmugam/GrainScan/assets/113205555/e75debc6-752b-44e5-9492-83ea4b122ab6)
 
-![image](https://github.com/K-Senthil-Shunmugam/GrainScan/assets/113205555/ccfafab7-c116-4aa4-a308-24bd17472081)
